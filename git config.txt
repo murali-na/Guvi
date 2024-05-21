@@ -1,0 +1,17 @@
+git config --global user.name "murali-na"
+$ git config --global user.name "murali-na"
+
+Murali@Murali MINGW64 ~
+$ ^C
+
+Murali@Murali MINGW64 ~
+$ git config --global user.email "muraliamet@gmail.com"
+$ git clone https://github.com/murali-na/Guvi.git
+Cloning into 'Guvi'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+Murali@Murali MINGW64 ~
+$ git status
